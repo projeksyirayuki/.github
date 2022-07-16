@@ -1,4 +1,4 @@
-[بهاس ملايو](README_ms.md) // [English](README_en.md)
+[بهاس ملايو](profile/README_ms.md) // [English](profile/README_en.md)
 
 <img src="https://user-images.githubusercontent.com/34799053/179371652-aba342b2-5559-44b2-af8f-2f1059a2b811.png" width="auto" alt="palang"></img>
 
