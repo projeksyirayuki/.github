@@ -1,0 +1,23 @@
+[بهاس ملايو](README_ms.md) // [English](README_en.md)
+
+<img src="https://user-images.githubusercontent.com/34799053/179371652-aba342b2-5559-44b2-af8f-2f1059a2b811.png" width="auto" alt="palang"></img>
+
+<p style="text-align: center; margin: 10px;">
+    <img src="https://user-images.githubusercontent.com/34799053/179370989-7b40c6e7-302f-4fe2-a005-03071dfbc189.png" width="auto" alt="banner"></img>
+</p>
+
+<img src="https://user-images.githubusercontent.com/34799053/179371652-aba342b2-5559-44b2-af8f-2f1059a2b811.png" width="auto" alt="palang"></img>
+
+Sebuah projek dengan matlamat menterjemahkan dalangan hiburan Jepun ke dalam Bahasa Melayu (Malaysia) bertulisan Rumi dan [Jawi][Jawi]. Kendatipun lambat, Projek Syirayuki
+akan tetap cuba mencuba yang terbaik dalam menyediakan terjemahan bermutu tinggi serta pengaturan huruf yang cantik.
+
+Segala sari kata yang diterjemahkan oleh Projek Syirayuki adalah bersifat pustakasama, yakni bersumber terbuka dengan matlamat menjadikan ia rujukan
+kepada pelapis yang akan datang.
+
+Lihat, kaji, salin dan cabangkanlah ia. Penghargaan amatlah digalakkan tetapi tidak wajib.
+
+<img src="https://user-images.githubusercontent.com/34799053/179371652-aba342b2-5559-44b2-af8f-2f1059a2b811.png" width="auto" alt="palang"></img>
+
+
+
+[Jawi]: https://ms.wikipedia.org/wiki/Tulisan_Jawi
