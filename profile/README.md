@@ -11,7 +11,7 @@
 Sebuah projek dengan matlamat menterjemahkan dalangan hiburan Jepun ke dalam Bahasa Melayu (Malaysia) bertulisan Rumi dan [Jawi][Jawi]. Kendatipun lambat, Projek Syirayuki
 akan tetap mencuba yang terbaik dalam menyediakan terjemahan bermutu tinggi serta pengaturan huruf yang cantik.
 
-Segala sari kata yang diterjemahkan oleh Projek Syirayuki adalah bersifat pustakasama, yakni bersumber terbuka dengan matlamat menjadikan ia rujukan
+Segala sari kata yang diterjemahkan oleh Projek Syirayuki adalah bersifat pustakasama, yakni bersumber terbuka dengan harapan ianya menjadi rujukan
 kepada pelapis yang akan datang.
 
 Lihat, kaji, salin dan cabangkanlah ia. Penghargaan amatlah digalakkan tetapi tidak wajib.
