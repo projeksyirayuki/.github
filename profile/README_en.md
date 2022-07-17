@@ -1,4 +1,4 @@
-[Malay (Jawi)](README_ms.md) // [Malay (Latin)](README.md)
+[Malay (Jawi)](README_ms.md) // [Malay (Latin)](https://github.com/projeksyirayuki)
 
 <img src="https://user-images.githubusercontent.com/34799053/179371652-aba342b2-5559-44b2-af8f-2f1059a2b811.png" width="auto" alt="palang"></img>
 
