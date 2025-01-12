@@ -38,6 +38,12 @@ Projek Syirayuki translates media (mainly Japanese) into Malay Malaysia.-->
         Sebab mereka Supa Aidoru no egao yori mo ano hachigatsu mo gogo yori mo hiyaku go syerusyius to yori hikaru kimi e.
 </ul>
 </details>
+<details lang="ms-Latn"><summary>Kenapa <b>Syi</b>rayuki dan bukan <b>Shi</b>rayuki?</summary>
+<ul>
+    <li>
+        Tiada gugusan <b>sh</b> di dalam kaedah Rumi bahasa Melayu Malaysia terkini. Hanya <b>sy</b>.
+</ul>
+</details>
 <details lang="ms-Latn"><summary>Tulisan Jawi dalam terjemahan Syirayuki nampak lain, mengapa?</summary>
 <ul>
     <li>
@@ -52,29 +58,35 @@ Antara gaya penjawian Syirayuki:
 <br>Adapun penggunaan tanda baca dalam Jawi, akan diguna bila perlu sahaja. Adalah kerana bagi mengelakkan kekeliruan memandangkan jawi bukanlah tulisan yang terbaik dalam membezakan huruf saksi (vokal), lagi-lagi kata nama khas atau ejaan asing yang memerlukan perbezaan padanya.
 </details>
 <br>
-<h3 lang="ms-Arab" align="center">⁧ سو‌ءالن موڠکين دتاڽ⁩</h3>
+<h3 lang="ms-Arab" dir="rtl" align="center">⁧ سو‌ءالن موڠکين دتاڽ⁩</h3>
 
-<details lang="ms-Arab" style="direction: rtl; text-align: right"><summary>⁧بيلا نق سياڤ؟⁩</summary>
+<details lang="ms-Arab" dir="rtl"><summary>⁧بيلا نق سياڤ؟⁩</summary>
 <ul>
     <li>
         ‮سياڤ بيلا اد کسمڤتن.
     </li>
 </ul>
 </details>
-<details lang="ms-Arab" style="direction: rtl; text-align: right"><summary>بوليه تق کامي نق ݢونا ترجمهن شيرايوکي؟</summary>
+<details lang="ms-Arab" dir="rtl"><summary>بوليه تق کامي نق ݢونا ترجمهن شيرايوکي؟</summary>
 <ul>
     <li>
         ‮تياد مسئله⹁ بواتله اڤ سهاج دڠنڽ دڠن شرط اي تيدق دجوال سمولا. (بندا ڤرچوما مستيله ککل ڤرچوما)
 </ul>
 </details>
-<details lang="ms-Arab" style="direction: rtl; text-align: right">
+<details lang="ms-Arab" dir="rtl">
     <summary>⁧کناڤ README ني نمڤق سام سڤرتي ساتو کومڤولن ايت؟⁩</summary>
 <ul>
     <li>
         ‮سبب مريک سوڤا اءيدوٚرو نوٚ ايٚݢاءوٚ يوٚري موٚ انوٚ هاچيݢاتسو موٚ ݢوٚݢوٚ يوٚري موٚ هياکو ݢوٚ شيٚروسيوس توٚ يوٚري هيکارو کيمي حيٚ.
 </ul>
 </details>
-<details lang="ms-Arab" style="direction: rtl; text-align: right"><summary>توليسن جاوي دالم ترجمهن شيرايوکي نمڤق لاٴين⹁ مڠاڤ؟</summary>
+<details lang="ms-Arab" dir="rtl"><summary>کنڤ <b>Syi</b>rayuki دان بوکن <b>Shi</b>rayuki؟</summary>
+<ul>
+    <li>
+        تياد ݢوݢوسن <b>sh</b> ددالم قاعده رومي بهاس ملايو مليسيا ترکيني. هاڽ <b>sy</b>.
+</ul>
+</details>
+<details lang="ms-Arab" dir="rtl"><summary>توليسن جاوي دالم ترجمهن شيرايوکي نمڤق لاٴين⹁ مڠاڤ؟</summary>
 <ul>
     <li>
         شيرايوکي اکن مڠݢوناکن قاعده <a href="https://ms.wikipedia.org/wiki/Ejaan_Jawi_yang_Disempurnakan">ايجاٴن جاوي يڠ دسمڤورناکن (ا.ج.ي.د.)</a> يڠ جوݢ دکنلي دڠن جاوي ديوان⹁ دڠن سممڤوڽ. تتاڤي اد ببراڤ کمس کيني تربارو ڤد ا.ج.ي.د. يڠ دراساکن برسالهن⹁ مک ايجاٴن شيرايوکي اکن دبوات ڤڽيمڤڠن.
